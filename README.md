@@ -1,6 +1,6 @@
 # Django_Chat_App
 
-This is a basic django chat app using *Django channels*. Here, I followed [justdjango](https://github.com/justdjango/justchat) justchat example, followed first two tutorials.
+This is a basic django chat app using *Django channels* with good **UI**. Here, I followed [justdjango](https://github.com/justdjango/justchat) justchat example, followed first two tutorials.
 
 #### My efforts:
 * I have add timestamp to every message.
